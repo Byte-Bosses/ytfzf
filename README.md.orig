@@ -215,9 +215,12 @@ Feel free to contribute, and add your name to the credits, please use the develo
 | Gardockt      | [contributions](credits/gardockt.md)      |        |
 | qoheniac      | [contributions](credits/qoheniac.md)      |        |
 | mathisto      | [contributions](credits/mathisto.md)      |        |
-change1
-change2
-change3
+<<<<<<< HEAD
 change4
 change5
 change6
+=======
+change1
+change2
+change3
+>>>>>>> branch1
